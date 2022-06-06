@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_0.png'>
+    <box top='173' left='411' width='201' height='178'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_1.png'>
+    <box top='99' left='323' width='210' height='191'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_10.png'>
+    <box top='286' left='260' width='151' height='131'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_2.png'>
+    <box top='170' left='290' width='184' height='169'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_3.png'>
+    <box top='198' left='376' width='173' height='165'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_4.png'>
+    <box top='160' left='221' width='165' height='157'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_5.png'>
+    <box top='165' left='246' width='226' height='218'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_6.png'>
+    <box top='244' left='306' width='191' height='190'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_7.png'>
+    <box top='194' left='376' width='181' height='177'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_8.png'>
+    <box top='198' left='283' width='181' height='178'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\right\opencv_frame_9.png'>
+    <box top='280' left='258' width='154' height='149'/>
+  </image>
+</images>
+</dataset>

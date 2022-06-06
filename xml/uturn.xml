@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_0.png'>
+    <box top='166' left='388' width='206' height='177'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_1.png'>
+    <box top='119' left='220' width='189' height='153'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_10.png'>
+    <box top='184' left='236' width='205' height='184'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_11.png'>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_2.png'>
+    <box top='136' left='235' width='205' height='181'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_3.png'>
+    <box top='150' left='247' width='212' height='178'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_4.png'>
+    <box top='177' left='224' width='180' height='165'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_5.png'>
+    <box top='160' left='201' width='193' height='168'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_6.png'>
+    <box top='152' left='177' width='226' height='201'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_7.png'>
+    <box top='208' left='265' width='178' height='168'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_8.png'>
+    <box top='225' left='235' width='189' height='164'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\uturn\opencv_frame_9.png'>
+    <box top='165' left='190' width='273' height='245'/>
+  </image>
+</images>
+</dataset>

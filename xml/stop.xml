@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_0.png'>
+    <box top='165' left='254' width='269' height='232'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_1.png'>
+    <box top='188' left='267' width='237' height='204'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_15.png'>
+    <box top='91' left='145' width='83' height='80'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_16.png'>
+    <box top='56' left='55' width='111' height='100'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_17.png'>
+    <box top='53' left='42' width='94' height='91'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_18.png'>
+    <box top='81' left='123' width='90' height='82'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_2.png'>
+    <box top='87' left='248' width='229' height='194'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_3.png'>
+    <box top='141' left='244' width='225' height='171'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_4.png'>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_5.png'>
+    <box top='160' left='284' width='237' height='208'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_6.png'>
+    <box top='182' left='256' width='228' height='195'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_7.png'>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_8.png'>
+    <box top='135' left='267' width='258' height='224'/>
+  </image>
+  <image file='D:\Office Projects\road-sign robot\datasets\stop\opencv_frame_9.png'>
+    <box top='175' left='338' width='189' height='171'/>
+  </image>
+</images>
+</dataset>
